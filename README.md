@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @clarence8lancelo597
+- 👀 I’m interested in machine learning and AI. I’m currently learning Python. 
+- 🌱 Computer Science student skilled in Python. Passionate about machine learning and AI. Committed to lifelong learning and innovation.
